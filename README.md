@@ -1,6 +1,6 @@
 # SkyLasso
 ```python
-   import quandl
+    import quandl
     import matplotlib.pyplot as plt
     import fbprophet
     import SkyLasso as sl
